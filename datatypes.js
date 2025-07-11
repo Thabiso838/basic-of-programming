@@ -14,3 +14,4 @@ function f() {
 console.log(a)}
 f();
 console.log(a);
+
